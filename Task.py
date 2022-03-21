@@ -20,7 +20,7 @@
 
 
 
-##Q2:
+##Question 2:
 
 	def chunks(l, n):
 	    for i in range(0, len(l), n):
